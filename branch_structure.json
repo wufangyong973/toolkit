@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/meter-value-negative",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/meter-value-negative": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/meter-value-negative",
+    "origin"
+  ]
+}
